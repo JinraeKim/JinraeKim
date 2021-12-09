@@ -1,4 +1,4 @@
-### Hi, I'm Jinrae Kim
+### Hi, I'm [Jinrae Kim](https://scholar.google.com/citations?user=K7wrYmoAAAAJ&hl=ko)
 I'm a Ph.D. candidate in [Flight Dynamics and Control Laboratory](http://fdcl.snu.ac.kr/wordpress/), Seoul National University.
 I'm seeking theoretical and algorithmic developments of data-driven dynamical system control and aerospace applications.
 
@@ -13,7 +13,3 @@ I love to contribute to open-source projects, especially in [Julia language](htt
 
 ### Programming
 Julia, Python, MATLAB, etc.
-
-### See also
-- [Google scholar](https://scholar.google.com/citations?user=K7wrYmoAAAAJ&hl=ko)
-- [Julia discourse](https://discourse.julialang.org/u/ihany/)
