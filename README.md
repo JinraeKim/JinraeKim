@@ -15,4 +15,4 @@ I love contributing to open-source projects, especially in [Julia language](http
 
 ### See also
 - [Google scholar](https://scholar.google.com/citations?user=K7wrYmoAAAAJ&hl=ko)
-- [Homepage](https://www.notion.so/jinrae/Jinrae-Kim-00e9f9ff9fec4d329a18642f9c31e3e0) (not actively maintained)
+- [Homepage](https://www.notion.so/jinrae/Jinrae-Kim-00e9f9ff9fec4d329a18642f9c31e3e0)
