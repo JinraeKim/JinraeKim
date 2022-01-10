@@ -1,5 +1,5 @@
 ### Hi, I'm Jinrae Kim
-I'm a Ph.D. candidate in [Flight Dynamics and Control Laboratory](http://fdcl.snu.ac.kr/wordpress/), Seoul National University.
+I'm a PhD candidate in [Flight Dynamics and Control Laboratory](http://fdcl.snu.ac.kr/wordpress/), Seoul National University.
 I'm seeking theoretical and algorithmic developments of data-driven control and aerospace applications.
 
 I love contributing to open-source projects, especially in [Julia language](https://julialang.org/).
