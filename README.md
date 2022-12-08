@@ -2,7 +2,7 @@
 I'm a PhD student at [Flight Dynamics and Control Laboratory](http://fdcl.snu.ac.kr/wordpress/), Seoul National University.
 I'm seeking theoretical and algorithmic developments of data-driven control, aerospace applications, and robotics.
 
-I was visiting student at NASA Jet Propulsion Laboratory (Jun ~ Dec 2022).
+I was a visiting student at NASA Jet Propulsion Laboratory (Jun ~ Dec 2022).
 
 ### Research interests
 - Function approximation, data-driven optimal control, and reinforcement learning
