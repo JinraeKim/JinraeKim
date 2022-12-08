@@ -9,6 +9,7 @@ I was a visiting student at NASA Jet Propulsion Laboratory (Jun ~ Dec 2022).
 - Convex optimisation and differentiable optimisation
 - Differential equations and system theory
 - Aerospace engineering applications
+- Machine learning and robotics (computer vision, etc.)
 
 ### Programming
 - Julia, Python, MATLAB, etc.
