@@ -1,19 +1,12 @@
 ### Hi, I'm Jinrae Kim
-I'm a PhD candidate at [Flight Dynamics and Control Laboratory](http://fdcl.snu.ac.kr/wordpress/), Seoul National University.
-I'm seeking theoretical and algorithmic developments of data-driven control, aerospace applications, and robotics.
+- A PhD candidate at [Flight Dynamics and Control Laboratory](http://fdcl.snu.ac.kr/wordpress/), Seoul National University.
 
 ### Research interests
-- Function approximation, data-driven optimal control, and reinforcement learning
-- Convex optimisation and differentiable optimisation
-- Differential equations and system theory
-- Aerospace engineering applications
-- Machine learning and robotics (computer vision, etc.)
+- Approximation, control, and optimization
+- Aerospace, robotics, and machine learning applications (guidance & control, path planning, computer vision, etc.)
 
 ### Programming
 - Julia, Python, MATLAB, etc.
-
-### Notes
-- Visiting student at NASA Jet Propulsion Laboratory (Jun ~ Dec, 2022).
 
 ### See also
 - [Google scholar](https://scholar.google.com/citations?user=K7wrYmoAAAAJ&hl=ko)
