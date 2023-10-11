@@ -10,5 +10,5 @@
 
 ### See also
 - [Google Scholar](https://scholar.google.com/citations?user=K7wrYmoAAAAJ&hl=en)
-- [Homepage](https://jinrae.notion.site/Jinrae-Kim-00e9f9ff9fec4d329a18642f9c31e3e0?pvs=4)
+- [Homepage](https://jinrae.notion.site)
 - [LinkedIn](https://www.linkedin.com/in/jinrae-kim-1b1900195/)
