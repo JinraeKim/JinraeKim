@@ -1,5 +1,5 @@
 ### Hi, I'm Jinrae Kim
-- A PhD candidate at [Flight Dynamics and Control Laboratory](http://fdcl.snu.ac.kr/wordpress/), Seoul National University.
+- PhD in Aerospace Engineering (Supervisor: Prof. Youdan Kim, [Flight Dynamics and Control Laboratory](http://fdcl.snu.ac.kr/wordpress/), Seoul National University)
 
 ### Research interests
 - Machine learning, optimization, and control
