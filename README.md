@@ -2,7 +2,7 @@
 - A PhD candidate at [Flight Dynamics and Control Laboratory](http://fdcl.snu.ac.kr/wordpress/), Seoul National University.
 
 ### Research interests
-- Machine learning, control, and optimization
+- Machine learning, optimization, and control
 - Aerospace and robotics applications (guidance & control, path planning, computer vision, etc.)
 
 ### Programming
