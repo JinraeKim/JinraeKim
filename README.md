@@ -1,5 +1,5 @@
 ### Hi, I'm Jinrae Kim
-- PhD in Aerospace Engineering (Supervisor: Prof. Youdan Kim, [Flight Dynamics and Control Laboratory](http://fdcl.snu.ac.kr/wordpress/), Seoul National University)
+- Postdoctoral Research Associate, University of Illinois Urbana-Champaign.
 
 ### Research interests
 - Machine learning, optimization, and control
