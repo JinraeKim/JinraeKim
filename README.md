@@ -1,8 +1,8 @@
 ### Hi, I'm Jinrae Kim
-- Postdoctoral Research Associate, University of Illinois Urbana-Champaign.
+- Software Engineer at a Stealth Startup
 
 ### Research interests
-- Machine learning, optimization, and control
+- Learning, optimization, and control
 - Aerospace and robotics applications (guidance & control, path planning, computer vision, etc.)
 
 ### Programming
