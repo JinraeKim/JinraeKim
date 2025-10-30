@@ -1,5 +1,5 @@
 ### Hi, I'm Jinrae Kim
-- Software Engineer at a Stealth Startup
+- Software Engineer at a stealth-mode startup
 
 ### Research interests
 - Learning, optimization, and control
